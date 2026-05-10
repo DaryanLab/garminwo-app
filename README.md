@@ -1,1 +1,0 @@
-# garminwo-app
