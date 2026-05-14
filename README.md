@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![RunningWO](https://img.shields.io/badge/RunningWO-v1.9.0-00a88c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAxN1Y5bDMgM2gybC00LTRWM2gtMnYySDh2Mmg1djVIMTN6Ii8+PC9zdmc+)
+![RunningWO](https://img.shields.io/github/v/release/DaryanLab/garminwo-app?label=RunningWO&color=00a88c&style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-24C8DB?style=for-the-badge&logo=tauri)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
