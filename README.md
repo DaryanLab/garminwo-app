@@ -152,7 +152,7 @@ Si RunningWO t'est utile, un petit café est toujours apprécié !
 ---
 
 ## 🇬🇧 English
-
+#english
 ### Overview
 
 RunningWO is a Windows desktop application built with **Tauri v2 + Rust + HTML/JS**. It allows runners to design structured workouts (intervals, repeat blocks, warm-up, cool-down) and send them directly to their GPS watch via Garmin Connect or export them as JSON/FIT.
