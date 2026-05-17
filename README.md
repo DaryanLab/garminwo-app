@@ -157,6 +157,10 @@ Si RunningWO t'est utile, un petit café est toujours apprécié !
 
 RunningWO is a Windows desktop application built with **Tauri v2 + Rust + HTML/JS**. It allows runners to design structured workouts (intervals, repeat blocks, warm-up, cool-down) and send them directly to their GPS watch via Garmin Connect or export them as JSON/FIT.
 
+# Garmin Workout Organizer
+
+Garmin Workout Organizer is a Windows application designed to manage, create and upload workouts to Garmin Connect.
+
 ### ✨ Features
 
 **Workout Creation**
@@ -164,6 +168,11 @@ RunningWO is a Windows desktop application built with **Tauri v2 + Rust + HTML/J
 - Repeat blocks with N repetitions
 - Drag & drop to reorder steps and blocks
 - Copy/paste steps between blocks
+- Upload workouts
+- Repeat workouts
+- Sync training plans
+- Manage Garmin devices
+- Fast desktop UI with Tauri
 
 **Training Targets**
 - 🏃 **Pace** (min/km) with configurable tolerance — Threshold & Recovery independent
