@@ -11,7 +11,7 @@
 
 **Créez, éditez et envoyez vos séances de course directement sur votre montre Garmin.**  
 *Build, edit and send your running workouts directly to your Garmin watch.*
-<img width="980" height="921" alt="image" src="https://github.com/user-attachments/assets/24f560e8-8feb-4513-9e94-2e829d82f8c1" />
+<img width="480" height="460" alt="image" src="https://github.com/user-attachments/assets/24f560e8-8feb-4513-9e94-2e829d82f8c1" />
 
 [🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
 
