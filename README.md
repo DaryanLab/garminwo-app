@@ -15,6 +15,18 @@
 <img width="1135" height="960" alt="image" src="https://github.com/user-attachments/assets/59dd7cf2-1e71-4988-b130-183ade934cab" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 [🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
 
 </div>
@@ -277,6 +289,19 @@ alternative garmin connect
 If RunningWO is useful to you, a small coffee is always appreciated!
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YDARLAVOIX)
+
+
+# Modus Operandi:
+<img width="403" height="313" alt="image" src="https://github.com/user-attachments/assets/da85651b-8da0-4003-b942-296c10e4b594" />  
+<img width="491" height="1458" alt="image" src="https://github.com/user-attachments/assets/ac1c2118-e3b0-4051-9d28-006e831063f4" />
+<img width="1092" height="1553" alt="image" src="https://github.com/user-attachments/assets/21cfc680-03e2-44fb-aa37-d98ff6262cc3" />
+<img width="1092" height="1036" alt="image" src="https://github.com/user-attachments/assets/2c8e4ef0-9be0-4fc4-a64d-8f3508005d64" />
+<img width="1092" height="1041" alt="image" src="https://github.com/user-attachments/assets/84e10fd3-b3fc-43f2-8c93-6ca01ecbf7f1" />
+
+# Garmin Connect:
+<img width="415" height="902" alt="image" src="https://github.com/user-attachments/assets/1db0c445-e63d-462c-b8d2-5a0e111f8499" /> <img width="416" height="903" alt="image" src="https://github.com/user-attachments/assets/fda18f4a-1649-4e2c-8167-7a36639f3a4f" /> <img width="409" height="890" alt="image" src="https://github.com/user-attachments/assets/fc240d82-4c1a-460f-8e47-2f30b40ce7e8" />
+<img width="411" height="894" alt="image" src="https://github.com/user-attachments/assets/d1711f40-04b0-485f-b4fd-48e0f8301397" />
+<img width="409" height="889" alt="image" src="https://github.com/user-attachments/assets/36821717-84b1-48ac-bac0-b4fc16fa657c" />
 
 ---
 
