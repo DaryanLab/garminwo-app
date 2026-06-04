@@ -13,6 +13,7 @@
 *Build, edit and send your running workouts directly to your Garmin watch.*
 
 <img width="1128" height="938" alt="image" src="https://github.com/user-attachments/assets/4ebc9e4c-c4d3-4fa2-a7e4-46bcd86e53a2" />
+<img width="2170" height="1856" alt="TP26-W23 3-R1_20260604" src="https://github.com/user-attachments/assets/71ca7a10-2e82-4759-907d-b4a4e13fb9a3" />
 
 
 [🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
