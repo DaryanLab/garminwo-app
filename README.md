@@ -12,8 +12,20 @@
 **Créez, éditez et envoyez vos séances de course directement dans les entrainements de Garmin Connect puis vers votre montre.**  
 *Build, edit and send your running workouts directly to your Garmin Connect then to your watch.*
 
-<img width="1128" height="938" alt="image" src="https://github.com/user-attachments/assets/4ebc9e4c-c4d3-4fa2-a7e4-46bcd86e53a2" />
-<img width="2170" height="1856" alt="TP26-W23 3-R1_20260604" src="https://github.com/user-attachments/assets/71ca7a10-2e82-4759-907d-b4a4e13fb9a3" />
+---
+
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/5381eb3b-d65f-4fb2-b1f5-03fb7258a76e" />
+
+---
+
+# Workout editor
+<img width="1182" height="908" alt="image" src="https://github.com/user-attachments/assets/f559daad-e222-4a88-bcd3-03bbc1f68dcb" />
+
+---
+# Workout preview
+<img width="387" height="554" alt="image" src="https://github.com/user-attachments/assets/a98a12eb-572c-4a5a-bd69-cd3a44328508" />
+
+---
 
 
 [🇬🇧 English](#-english) · [🇫🇷 Français](#-français)
