@@ -1,3 +1,6 @@
+[Quick Start RunningWO.pdf](https://github.com/user-attachments/files/28784937/Quick.Start.RunningWO.pdf)
+
+
 [README.md](https://github.com/user-attachments/files/27564349/README.md)
 # Running Workout Organiser — Build and sync structured workouts for Garmin (soon Coros and Suunto via Intervals.icu).
 
